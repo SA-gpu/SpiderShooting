@@ -1,0 +1,18 @@
+﻿Build started 08-Dec-17 7:00:26 PM.
+     1>Project "D:\6th semester\CG\CG SAAD MAHMOOD KHAN(EP-1349088)\SPIDER LAB-05\spider_game\spider_game.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\6th semester\cg\cg saad mahmood khan(ep-1349088)\spider lab-05\spider_game\rgba.h(261): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>d:\6th semester\cg\cg saad mahmood khan(ep-1349088)\spider lab-05\spider_game\rgba.h(326): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\6th semester\cg\cg saad mahmood khan(ep-1349088)\spider lab-05\spider_game\rgba.h(328): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\6th semester\CG\CG SAAD MAHMOOD KHAN(EP-1349088)\SPIDER LAB-05\Debug\spider_game.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\6th semester\CG\CG SAAD MAHMOOD KHAN(EP-1349088)\SPIDER LAB-05\Debug\spider_game.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\6th semester\CG\CG SAAD MAHMOOD KHAN(EP-1349088)\SPIDER LAB-05\Debug\spider_game.lib" /MACHINE:X86 Debug\Source.obj
+         LINK : D:\6th semester\CG\CG SAAD MAHMOOD KHAN(EP-1349088)\SPIDER LAB-05\Debug\spider_game.exe not found or not built by the last incremental link; performing full link
+         spider_game.vcxproj -> D:\6th semester\CG\CG SAAD MAHMOOD KHAN(EP-1349088)\SPIDER LAB-05\Debug\spider_game.exe
+     1>Done Building Project "D:\6th semester\CG\CG SAAD MAHMOOD KHAN(EP-1349088)\SPIDER LAB-05\spider_game\spider_game.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:15.98
